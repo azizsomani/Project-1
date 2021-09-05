@@ -51,7 +51,7 @@ Note – This should give an error saying Permission denied (publickey) because 
     - `ssh sysadmin@10.0.0.$i` is the command run by `do`. It is passing in the `$i` variable so the `wget` command will be run on each server.
 
 
-![](Images/Log-Auth.png) ![](Images/Log-Auth1.png)
+![](Images/Log-Auth.png) ![](Images/Log-Auth1.png)![](Images/Inventory.png)
 
 
 ### Linux Stress
@@ -70,7 +70,7 @@ Follow Below Steps to finish task: -
 
 5. Check out the Metrics page for that VM in Kibana. 
 
-   Below is the link of image showing CPU usage increase: - ![](Images/CPU-usage-increase-1.png) ![](Images/CPU-usage-increase-2.png)![](Images/Inventory.png)
+   Below is the link of image showing CPU usage increase: - ![](Images/CPU-usage-increase-1.png) ![](Images/CPU-usage-increase-2.png)
 
 
 ### wget-DoS
