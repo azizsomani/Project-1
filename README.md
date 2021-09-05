@@ -213,7 +213,7 @@ The easiest way to copy the playbooks is to use Git:
 $ cd /etc/ansible
 $ mkdir files
 # Clone Repository + IaC Files
-$ git clone https://github.com/user_name_of_account/project-1.git
+$ git clone https://github.com/azizsomani/Project-1.git
 # Move Playbooks and hosts file Into `/etc/ansible`
 $ cp Project-1/Ansible/hosts /etc/ansible
 $ cp Project-1/Ansible/Ansible-Cfg/ansible.cfg /etc/ansible
