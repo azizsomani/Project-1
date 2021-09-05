@@ -70,7 +70,7 @@ Follow Below Steps to finish task: -
 
 5. Check out the Metrics page for that VM in Kibana. 
 
-   Below is the link of image showing CPU usage increase: - ![](Images/CPU-usage-increase-1.png) ![](Images/CPU-usage-increase-2.png)
+   Below is the link of image showing CPU usage increase: - ![](Images/CPU-usage-increase-1.png) ![](Images/CPU-usage-increase-2.png)![](Images/Inventory.png)
 
 
 ### wget-DoS
