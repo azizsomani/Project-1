@@ -266,6 +266,7 @@ Once everything done, wait five minutes to give ELK time to start up and to veri
  Please below specific commands user need to run to setup, download playbook, update files and check status.
  
 |Commands                                    | Description of Commands |
+| :-----------------------------------------:| :-----------------------------------------:|
 | 1) ssh username@PublicIP                    | ssh to jump-box from home |
 | 2) sudo docker container list -a	          | lists all docker container |
 | 3) sudo docker start eager_golick           | start docker container eager_golick |
